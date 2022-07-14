@@ -1,0 +1,2 @@
+# BigFileSplieAndMerge
+Java实现大文件自动生成，Java实现大文件等拆分与合并
